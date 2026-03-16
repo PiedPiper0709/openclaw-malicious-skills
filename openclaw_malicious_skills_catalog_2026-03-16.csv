@@ -1,0 +1,353 @@
+﻿skill_name,source,author,published_date,description,evidence,attack_chain,risk_category,impact_scope,confidence,severity,mitigation
+amir,Koi ClawHavoc report,未确认,2026-02-01,伪装更新器/安装器,Koi 将其归入 Auto-Updaters 恶意/可疑技能清单,Prerequisites→外链安装脚本→payload,伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+auto-updater-161ks,Koi ClawHavoc report,未确认,2026-02-01,伪装更新器/安装器,Koi 将其归入 Auto-Updaters 恶意/可疑技能清单,Prerequisites→外链安装脚本→payload,伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+auto-updater-2yq87,Koi ClawHavoc report,未确认,2026-02-01,伪装更新器/安装器,Koi 将其归入 Auto-Updaters 恶意/可疑技能清单,Prerequisites→外链安装脚本→payload,伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+auto-updater-3rk1s,Koi ClawHavoc report,未确认,2026-02-01,伪装更新器/安装器,Koi 将其归入 Auto-Updaters 恶意/可疑技能清单,Prerequisites→外链安装脚本→payload,伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+auto-updater-5buwl,Koi ClawHavoc report,未确认,2026-02-01,伪装更新器/安装器,Koi 将其归入 Auto-Updaters 恶意/可疑技能清单,Prerequisites→外链安装脚本→payload,伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+auto-updater-5fhqm,Koi ClawHavoc report,未确认,2026-02-01,伪装更新器/安装器,Koi 将其归入 Auto-Updaters 恶意/可疑技能清单,Prerequisites→外链安装脚本→payload,伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+auto-updater-8xwp6,Koi ClawHavoc report,未确认,2026-02-01,伪装更新器/安装器,Koi 将其归入 Auto-Updaters 恶意/可疑技能清单,Prerequisites→外链安装脚本→payload,伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+auto-updater-deza8,Koi ClawHavoc report,未确认,2026-02-01,伪装更新器/安装器,Koi 将其归入 Auto-Updaters 恶意/可疑技能清单,Prerequisites→外链安装脚本→payload,伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+auto-updater-dzuba,Koi ClawHavoc report,未确认,2026-02-01,伪装更新器/安装器,Koi 将其归入 Auto-Updaters 恶意/可疑技能清单,Prerequisites→外链安装脚本→payload,伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+auto-updater-e89da,Koi ClawHavoc report,未确认,2026-02-01,伪装更新器/安装器,Koi 将其归入 Auto-Updaters 恶意/可疑技能清单,Prerequisites→外链安装脚本→payload,伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+auto-updater-eclpb,Koi ClawHavoc report,未确认,2026-02-01,伪装更新器/安装器,Koi 将其归入 Auto-Updaters 恶意/可疑技能清单,Prerequisites→外链安装脚本→payload,伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+auto-updater-gw6f5,Koi ClawHavoc report,未确认,2026-02-01,伪装更新器/安装器,Koi 将其归入 Auto-Updaters 恶意/可疑技能清单,Prerequisites→外链安装脚本→payload,伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+auto-updater-hfmct,Koi ClawHavoc report,未确认,2026-02-01,伪装更新器/安装器,Koi 将其归入 Auto-Updaters 恶意/可疑技能清单,Prerequisites→外链安装脚本→payload,伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+auto-updater-jkiuq,Koi ClawHavoc report,未确认,2026-02-01,伪装更新器/安装器,Koi 将其归入 Auto-Updaters 恶意/可疑技能清单,Prerequisites→外链安装脚本→payload,伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+auto-updater-lth9t,Koi ClawHavoc report,未确认,2026-02-01,伪装更新器/安装器,Koi 将其归入 Auto-Updaters 恶意/可疑技能清单,Prerequisites→外链安装脚本→payload,伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+auto-updater-m0fsa,Koi ClawHavoc report,未确认,2026-02-01,伪装更新器/安装器,Koi 将其归入 Auto-Updaters 恶意/可疑技能清单,Prerequisites→外链安装脚本→payload,伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+auto-updater-mclql,Koi ClawHavoc report,未确认,2026-02-01,伪装更新器/安装器,Koi 将其归入 Auto-Updaters 恶意/可疑技能清单,Prerequisites→外链安装脚本→payload,伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+auto-updater-mkukz,Koi ClawHavoc report,未确认,2026-02-01,伪装更新器/安装器,Koi 将其归入 Auto-Updaters 恶意/可疑技能清单,Prerequisites→外链安装脚本→payload,伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+auto-updater-mn5ri,Koi ClawHavoc report,未确认,2026-02-01,伪装更新器/安装器,Koi 将其归入 Auto-Updaters 恶意/可疑技能清单,Prerequisites→外链安装脚本→payload,伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+auto-updater-nlt3m,Koi ClawHavoc report,未确认,2026-02-01,伪装更新器/安装器,Koi 将其归入 Auto-Updaters 恶意/可疑技能清单,Prerequisites→外链安装脚本→payload,伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+auto-updater-ocn18,Koi ClawHavoc report,未确认,2026-02-01,伪装更新器/安装器,Koi 将其归入 Auto-Updaters 恶意/可疑技能清单,Prerequisites→外链安装脚本→payload,伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+auto-updater-p5rmt,Koi ClawHavoc report,未确认,2026-02-01,伪装更新器/安装器,Koi 将其归入 Auto-Updaters 恶意/可疑技能清单,Prerequisites→外链安装脚本→payload,伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+auto-updater-qdyme,Koi ClawHavoc report,未确认,2026-02-01,伪装更新器/安装器,Koi 将其归入 Auto-Updaters 恶意/可疑技能清单,Prerequisites→外链安装脚本→payload,伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+auto-updater-se38e,Koi ClawHavoc report,未确认,2026-02-01,伪装更新器/安装器,Koi 将其归入 Auto-Updaters 恶意/可疑技能清单,Prerequisites→外链安装脚本→payload,伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+auto-updater-sxdg2,Koi ClawHavoc report,未确认,2026-02-01,伪装更新器/安装器,Koi 将其归入 Auto-Updaters 恶意/可疑技能清单,Prerequisites→外链安装脚本→payload,伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+auto-updater-xcgnm,Koi ClawHavoc report,未确认,2026-02-01,伪装更新器/安装器,Koi 将其归入 Auto-Updaters 恶意/可疑技能清单,Prerequisites→外链安装脚本→payload,伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+auto-updater-xsunp,Koi ClawHavoc report,未确认,2026-02-01,伪装更新器/安装器,Koi 将其归入 Auto-Updaters 恶意/可疑技能清单,Prerequisites→外链安装脚本→payload,伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+base-agent,Koi ClawHavoc report,未确认,2026-02-01,伪装交易/认证工具,Koi 将其归入 AuthTool Campaign 恶意/可疑技能清单,技能使用→植入恶意流程,凭据窃取/交易场景,交易账户/钱包/主机,5,高,立即下架/阻断IOC/轮换凭据
+better-polymarket,Koi ClawHavoc report,未确认,2026-02-01,功能正常但藏后门,Koi 将其归入 Hidden Backdoor 恶意/可疑技能清单,正常功能调用→触发隐藏后门,隐藏后门/反连,主机完全控制,5,高,立即下架/阻断IOC/轮换凭据
+bird-js,openclaw/skills archive,sakaen736jih,未确认,伪装社交媒体/X 工具,归档 SKILL.md 含 base64|bash 模式,Prerequisites→base64→payload,tool poisoning/远程执行,主机+浏览器数据,5,高,立即下架/阻断IOC/轮换凭据
+bybit-agent,Koi ClawHavoc report,未确认,2026-02-01,伪装交易/认证工具,Koi 将其归入 AuthTool Campaign 恶意/可疑技能清单,技能使用→植入恶意流程,凭据窃取/交易场景,交易账户/钱包/主机,5,高,立即下架/阻断IOC/轮换凭据
+clawdhub1,Snyk campaign article,zaycv,2026-02-05,ClawHub 伪装变体,Snyk 指向 glot.io/base64/IP 91.92.242.30,Prerequisites→glot/base64→payload,供应链伪装/远程执行,主机+凭据,5,高,立即下架/阻断IOC/轮换凭据
+clawhub,Koi ClawHavoc report,未确认,2026-02-01,伪装官方 ClawHub/CLI,Koi 将其归入 ClawHub Typosquats 恶意/可疑技能清单,typosquat→Prerequisites→下载执行,供应链伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+clawhub-6yr3b,Koi ClawHavoc report,未确认,2026-02-01,伪装官方 ClawHub/CLI,Koi 将其归入 ClawHub Typosquats 恶意/可疑技能清单,typosquat→Prerequisites→下载执行,供应链伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+clawhub-c9y4p,Koi ClawHavoc report,未确认,2026-02-01,伪装官方 ClawHub/CLI,Koi 将其归入 ClawHub Typosquats 恶意/可疑技能清单,typosquat→Prerequisites→下载执行,供应链伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+clawhub-d4kxr,Koi ClawHavoc report,未确认,2026-02-01,伪装官方 ClawHub/CLI,Koi 将其归入 ClawHub Typosquats 恶意/可疑技能清单,typosquat→Prerequisites→下载执行,供应链伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+clawhub-f3qcn,Koi ClawHavoc report,未确认,2026-02-01,伪装官方 ClawHub/CLI,Koi 将其归入 ClawHub Typosquats 恶意/可疑技能清单,typosquat→Prerequisites→下载执行,供应链伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+clawhub-gpcrq,Koi ClawHavoc report,未确认,2026-02-01,伪装官方 ClawHub/CLI,Koi 将其归入 ClawHub Typosquats 恶意/可疑技能清单,typosquat→Prerequisites→下载执行,供应链伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+clawhub-gstca,Koi ClawHavoc report,未确认,2026-02-01,伪装官方 ClawHub/CLI,Koi 将其归入 ClawHub Typosquats 恶意/可疑技能清单,typosquat→Prerequisites→下载执行,供应链伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+clawhub-hh1fd,Koi ClawHavoc report,未确认,2026-02-01,伪装官方 ClawHub/CLI,Koi 将其归入 ClawHub Typosquats 恶意/可疑技能清单,typosquat→Prerequisites→下载执行,供应链伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+clawhub-hh2km,Koi ClawHavoc report,未确认,2026-02-01,伪装官方 ClawHub/CLI,Koi 将其归入 ClawHub Typosquats 恶意/可疑技能清单,typosquat→Prerequisites→下载执行,供应链伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+clawhub-hylhq,Koi ClawHavoc report,未确认,2026-02-01,伪装官方 ClawHub/CLI,Koi 将其归入 ClawHub Typosquats 恶意/可疑技能清单,typosquat→Prerequisites→下载执行,供应链伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+clawhub-i7oci,Koi ClawHavoc report,未确认,2026-02-01,伪装官方 ClawHub/CLI,Koi 将其归入 ClawHub Typosquats 恶意/可疑技能清单,typosquat→Prerequisites→下载执行,供应链伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+clawhub-i9zhz,Koi ClawHavoc report,未确认,2026-02-01,伪装官方 ClawHub/CLI,Koi 将其归入 ClawHub Typosquats 恶意/可疑技能清单,typosquat→Prerequisites→下载执行,供应链伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+clawhub-ja7eh,Koi ClawHavoc report,未确认,2026-02-01,伪装官方 ClawHub/CLI,Koi 将其归入 ClawHub Typosquats 恶意/可疑技能清单,typosquat→Prerequisites→下载执行,供应链伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+clawhub-krmvq,Koi ClawHavoc report,未确认,2026-02-01,伪装官方 ClawHub/CLI,Koi 将其归入 ClawHub Typosquats 恶意/可疑技能清单,typosquat→Prerequisites→下载执行,供应链伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+clawhub-oihpl,Koi ClawHavoc report,未确认,2026-02-01,伪装官方 ClawHub/CLI,Koi 将其归入 ClawHub Typosquats 恶意/可疑技能清单,typosquat→Prerequisites→下载执行,供应链伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+clawhub-olgys,Koi ClawHavoc report,未确认,2026-02-01,伪装官方 ClawHub/CLI,Koi 将其归入 ClawHub Typosquats 恶意/可疑技能清单,typosquat→Prerequisites→下载执行,供应链伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+clawhub-osasg,Koi ClawHavoc report,未确认,2026-02-01,伪装官方 ClawHub/CLI,Koi 将其归入 ClawHub Typosquats 恶意/可疑技能清单,typosquat→Prerequisites→下载执行,供应链伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+clawhub-rkvny,Koi ClawHavoc report,未确认,2026-02-01,伪装官方 ClawHub/CLI,Koi 将其归入 ClawHub Typosquats 恶意/可疑技能清单,typosquat→Prerequisites→下载执行,供应链伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+clawhub-sxtsn,Koi ClawHavoc report,未确认,2026-02-01,伪装官方 ClawHub/CLI,Koi 将其归入 ClawHub Typosquats 恶意/可疑技能清单,typosquat→Prerequisites→下载执行,供应链伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+clawhub-tlxx5,Koi ClawHavoc report,未确认,2026-02-01,伪装官方 ClawHub/CLI,Koi 将其归入 ClawHub Typosquats 恶意/可疑技能清单,typosquat→Prerequisites→下载执行,供应链伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+clawhub-uoeym,Koi ClawHavoc report,未确认,2026-02-01,伪装官方 ClawHub/CLI,Koi 将其归入 ClawHub Typosquats 恶意/可疑技能清单,typosquat→Prerequisites→下载执行,供应链伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+clawhub-wixce,Koi ClawHavoc report,未确认,2026-02-01,伪装官方 ClawHub/CLI,Koi 将其归入 ClawHub Typosquats 恶意/可疑技能清单,typosquat→Prerequisites→下载执行,供应链伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+clawhub-wotp2,Koi ClawHavoc report,未确认,2026-02-01,伪装官方 ClawHub/CLI,Koi 将其归入 ClawHub Typosquats 恶意/可疑技能清单,typosquat→Prerequisites→下载执行,供应链伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+clawhub1,Koi ClawHavoc report,未确认,2026-02-01,伪装官方 ClawHub/CLI,Koi 将其归入 ClawHub Typosquats 恶意/可疑技能清单,typosquat→Prerequisites→下载执行,供应链伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+clawhubb,Koi ClawHavoc report,未确认,2026-02-01,伪装官方 ClawHub/CLI,Koi 将其归入 ClawHub Typosquats 恶意/可疑技能清单,typosquat→Prerequisites→下载执行,供应链伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+clawhubcli,Koi ClawHavoc report,未确认,2026-02-01,伪装官方 ClawHub/CLI,Koi 将其归入 ClawHub Typosquats 恶意/可疑技能清单,typosquat→Prerequisites→下载执行,供应链伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+clawhud,Snyk IOC list,zaycv,2026-02-05,ClawHub 伪装变体,Snyk 列为仍在线 IOC,Prerequisites→外链执行,供应链伪装/远程执行,主机+凭据,5,高,立即下架/阻断IOC/轮换凭据
+clawwhub,Koi ClawHavoc report,未确认,2026-02-01,伪装官方 ClawHub/CLI,Koi 将其归入 ClawHub Typosquats 恶意/可疑技能清单,typosquat→Prerequisites→下载执行,供应链伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+cllawhub,Koi ClawHavoc report,未确认,2026-02-01,伪装官方 ClawHub/CLI,Koi 将其归入 ClawHub Typosquats 恶意/可疑技能清单,typosquat→Prerequisites→下载执行,供应链伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+coding-agent-1gx,Snyk threat actor repo,aztr0nutzs,2026-02-05,现成恶意 coding agent 样本目录,Snyk 点名 NET_NiNjA.v1.2 预置恶意技能目录,仓库样本→待投放,恶意样本仓库,待定,3,中,立即下架/阻断IOC/轮换凭据
+deepresearch,GitHub issue #9197,zaycv,2026-02-04,伪装研究工具,GitHub issue 指向 ClawHavoc IOC,Prerequisites→下载执行,伪装/远程执行,主机+凭据,5,高,立即下架/阻断IOC/轮换凭据
+ethereum-gas-tracker-abxf0,Koi ClawHavoc report,未确认,2026-02-01,伪装加密行情/链上工具,Koi 将其归入 Ethereum Gas Tracker 恶意/可疑技能清单,社工安装→外链下载→payload,加密场景伪装,钱包/API/主机,4,高,立即下架/阻断IOC/轮换凭据
+ethereum-gas-tracker-esupl,Koi ClawHavoc report,未确认,2026-02-01,伪装加密行情/链上工具,Koi 将其归入 Ethereum Gas Tracker 恶意/可疑技能清单,社工安装→外链下载→payload,加密场景伪装,钱包/API/主机,4,高,立即下架/阻断IOC/轮换凭据
+ethereum-gas-tracker-fygz0,Koi ClawHavoc report,未确认,2026-02-01,伪装加密行情/链上工具,Koi 将其归入 Ethereum Gas Tracker 恶意/可疑技能清单,社工安装→外链下载→payload,加密场景伪装,钱包/API/主机,4,高,立即下架/阻断IOC/轮换凭据
+ethereum-gas-tracker-gon2c,Koi ClawHavoc report,未确认,2026-02-01,伪装加密行情/链上工具,Koi 将其归入 Ethereum Gas Tracker 恶意/可疑技能清单,社工安装→外链下载→payload,加密场景伪装,钱包/API/主机,4,高,立即下架/阻断IOC/轮换凭据
+ethereum-gas-tracker-hx8j0,Koi ClawHavoc report,未确认,2026-02-01,伪装加密行情/链上工具,Koi 将其归入 Ethereum Gas Tracker 恶意/可疑技能清单,社工安装→外链下载→payload,加密场景伪装,钱包/API/主机,4,高,立即下架/阻断IOC/轮换凭据
+ethereum-gas-tracker-k51pi,Koi ClawHavoc report,未确认,2026-02-01,伪装加密行情/链上工具,Koi 将其归入 Ethereum Gas Tracker 恶意/可疑技能清单,社工安装→外链下载→payload,加密场景伪装,钱包/API/主机,4,高,立即下架/阻断IOC/轮换凭据
+ethereum-gas-tracker-leifg,Koi ClawHavoc report,未确认,2026-02-01,伪装加密行情/链上工具,Koi 将其归入 Ethereum Gas Tracker 恶意/可疑技能清单,社工安装→外链下载→payload,加密场景伪装,钱包/API/主机,4,高,立即下架/阻断IOC/轮换凭据
+ethereum-gas-tracker-lm4cv,Koi ClawHavoc report,未确认,2026-02-01,伪装加密行情/链上工具,Koi 将其归入 Ethereum Gas Tracker 恶意/可疑技能清单,社工安装→外链下载→payload,加密场景伪装,钱包/API/主机,4,高,立即下架/阻断IOC/轮换凭据
+ethereum-gas-tracker-mnsfw,Koi ClawHavoc report,未确认,2026-02-01,伪装加密行情/链上工具,Koi 将其归入 Ethereum Gas Tracker 恶意/可疑技能清单,社工安装→外链下载→payload,加密场景伪装,钱包/API/主机,4,高,立即下架/阻断IOC/轮换凭据
+ethereum-gas-tracker-nmcq5,Koi ClawHavoc report,未确认,2026-02-01,伪装加密行情/链上工具,Koi 将其归入 Ethereum Gas Tracker 恶意/可疑技能清单,社工安装→外链下载→payload,加密场景伪装,钱包/API/主机,4,高,立即下架/阻断IOC/轮换凭据
+ethereum-gas-tracker-pz0kz,Koi ClawHavoc report,未确认,2026-02-01,伪装加密行情/链上工具,Koi 将其归入 Ethereum Gas Tracker 恶意/可疑技能清单,社工安装→外链下载→payload,加密场景伪装,钱包/API/主机,4,高,立即下架/阻断IOC/轮换凭据
+ethereum-gas-tracker-qxorv,Koi ClawHavoc report,未确认,2026-02-01,伪装加密行情/链上工具,Koi 将其归入 Ethereum Gas Tracker 恶意/可疑技能清单,社工安装→外链下载→payload,加密场景伪装,钱包/API/主机,4,高,立即下架/阻断IOC/轮换凭据
+ethereum-gas-tracker-rmiu4,Koi ClawHavoc report,未确认,2026-02-01,伪装加密行情/链上工具,Koi 将其归入 Ethereum Gas Tracker 恶意/可疑技能清单,社工安装→外链下载→payload,加密场景伪装,钱包/API/主机,4,高,立即下架/阻断IOC/轮换凭据
+ethereum-gas-tracker-t8oaj,Koi ClawHavoc report,未确认,2026-02-01,伪装加密行情/链上工具,Koi 将其归入 Ethereum Gas Tracker 恶意/可疑技能清单,社工安装→外链下载→payload,加密场景伪装,钱包/API/主机,4,高,立即下架/阻断IOC/轮换凭据
+google-qx4,Snyk Google skill report,aztr0nutzs,2026-02-10,伪装 Google 集成技能,Snyk 指出含 rentry/base64 stager,Prerequisites→rentry/base64→payload,办公集成伪装/远程执行,邮箱/文档/主机,5,高,立即下架/阻断IOC/轮换凭据
+google-workspace-2z5dp,Koi ClawHavoc report,未确认,2026-02-01,伪装 Gmail/Calendar/Drive 集成,Koi 将其归入 Google Workspace 恶意/可疑技能清单,社工安装→权限/执行→数据获取,办公集成伪装,邮箱/文档/日程/主机,4,高,立即下架/阻断IOC/轮换凭据
+google-workspace-7ylf0,Koi ClawHavoc report,未确认,2026-02-01,伪装 Gmail/Calendar/Drive 集成,Koi 将其归入 Google Workspace 恶意/可疑技能清单,社工安装→权限/执行→数据获取,办公集成伪装,邮箱/文档/日程/主机,4,高,立即下架/阻断IOC/轮换凭据
+google-workspace-8zdgy,Koi ClawHavoc report,未确认,2026-02-01,伪装 Gmail/Calendar/Drive 集成,Koi 将其归入 Google Workspace 恶意/可疑技能清单,社工安装→权限/执行→数据获取,办公集成伪装,邮箱/文档/日程/主机,4,高,立即下架/阻断IOC/轮换凭据
+google-workspace-auqud,Koi ClawHavoc report,未确认,2026-02-01,伪装 Gmail/Calendar/Drive 集成,Koi 将其归入 Google Workspace 恶意/可疑技能清单,社工安装→权限/执行→数据获取,办公集成伪装,邮箱/文档/日程/主机,4,高,立即下架/阻断IOC/轮换凭据
+google-workspace-devfw,Koi ClawHavoc report,未确认,2026-02-01,伪装 Gmail/Calendar/Drive 集成,Koi 将其归入 Google Workspace 恶意/可疑技能清单,社工安装→权限/执行→数据获取,办公集成伪装,邮箱/文档/日程/主机,4,高,立即下架/阻断IOC/轮换凭据
+google-workspace-gbvyc,Koi ClawHavoc report,未确认,2026-02-01,伪装 Gmail/Calendar/Drive 集成,Koi 将其归入 Google Workspace 恶意/可疑技能清单,社工安装→权限/执行→数据获取,办公集成伪装,邮箱/文档/日程/主机,4,高,立即下架/阻断IOC/轮换凭据
+google-workspace-izypr,Koi ClawHavoc report,未确认,2026-02-01,伪装 Gmail/Calendar/Drive 集成,Koi 将其归入 Google Workspace 恶意/可疑技能清单,社工安装→权限/执行→数据获取,办公集成伪装,邮箱/文档/日程/主机,4,高,立即下架/阻断IOC/轮换凭据
+google-workspace-m2hcx,Koi ClawHavoc report,未确认,2026-02-01,伪装 Gmail/Calendar/Drive 集成,Koi 将其归入 Google Workspace 恶意/可疑技能清单,社工安装→权限/执行→数据获取,办公集成伪装,邮箱/文档/日程/主机,4,高,立即下架/阻断IOC/轮换凭据
+google-workspace-ndlt1,Koi ClawHavoc report,未确认,2026-02-01,伪装 Gmail/Calendar/Drive 集成,Koi 将其归入 Google Workspace 恶意/可疑技能清单,社工安装→权限/执行→数据获取,办公集成伪装,邮箱/文档/日程/主机,4,高,立即下架/阻断IOC/轮换凭据
+google-workspace-ozgdc,Koi ClawHavoc report,未确认,2026-02-01,伪装 Gmail/Calendar/Drive 集成,Koi 将其归入 Google Workspace 恶意/可疑技能清单,社工安装→权限/执行→数据获取,办公集成伪装,邮箱/文档/日程/主机,4,高,立即下架/阻断IOC/轮换凭据
+google-workspace-t9lkr,Koi ClawHavoc report,未确认,2026-02-01,伪装 Gmail/Calendar/Drive 集成,Koi 将其归入 Google Workspace 恶意/可疑技能清单,社工安装→权限/执行→数据获取,办公集成伪装,邮箱/文档/日程/主机,4,高,立即下架/阻断IOC/轮换凭据
+google-workspace-tqhmn,Koi ClawHavoc report,未确认,2026-02-01,伪装 Gmail/Calendar/Drive 集成,Koi 将其归入 Google Workspace 恶意/可疑技能清单,社工安装→权限/执行→数据获取,办公集成伪装,邮箱/文档/日程/主机,4,高,立即下架/阻断IOC/轮换凭据
+google-workspace-womvg,Koi ClawHavoc report,未确认,2026-02-01,伪装 Gmail/Calendar/Drive 集成,Koi 将其归入 Google Workspace 恶意/可疑技能清单,社工安装→权限/执行→数据获取,办公集成伪装,邮箱/文档/日程/主机,4,高,立即下架/阻断IOC/轮换凭据
+google-workspace-wwxem,Koi ClawHavoc report,未确认,2026-02-01,伪装 Gmail/Calendar/Drive 集成,Koi 将其归入 Google Workspace 恶意/可疑技能清单,社工安装→权限/执行→数据获取,办公集成伪装,邮箱/文档/日程/主机,4,高,立即下架/阻断IOC/轮换凭据
+google-workspace-yj9ug,Koi ClawHavoc report,未确认,2026-02-01,伪装 Gmail/Calendar/Drive 集成,Koi 将其归入 Google Workspace 恶意/可疑技能清单,社工安装→权限/执行→数据获取,办公集成伪装,邮箱/文档/日程/主机,4,高,立即下架/阻断IOC/轮换凭据
+google-workspace-ytrqj,Koi ClawHavoc report,未确认,2026-02-01,伪装 Gmail/Calendar/Drive 集成,Koi 将其归入 Google Workspace 恶意/可疑技能清单,社工安装→权限/执行→数据获取,办公集成伪装,邮箱/文档/日程/主机,4,高,立即下架/阻断IOC/轮换凭据
+google-workspace-zg8ad,Koi ClawHavoc report,未确认,2026-02-01,伪装 Gmail/Calendar/Drive 集成,Koi 将其归入 Google Workspace 恶意/可疑技能清单,社工安装→权限/执行→数据获取,办公集成伪装,邮箱/文档/日程/主机,4,高,立即下架/阻断IOC/轮换凭据
+insider-wallets-finder-1a7pi,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包画像/监控工具,Koi 将其归入 Insider Wallets Finder 恶意/可疑技能清单,社工安装→外链执行,加密场景伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+insider-wallets-finder-2fz1g,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包画像/监控工具,Koi 将其归入 Insider Wallets Finder 恶意/可疑技能清单,社工安装→外链执行,加密场景伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+insider-wallets-finder-57h4t,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包画像/监控工具,Koi 将其归入 Insider Wallets Finder 恶意/可疑技能清单,社工安装→外链执行,加密场景伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+insider-wallets-finder-9dlka,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包画像/监控工具,Koi 将其归入 Insider Wallets Finder 恶意/可疑技能清单,社工安装→外链执行,加密场景伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+insider-wallets-finder-art4q,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包画像/监控工具,Koi 将其归入 Insider Wallets Finder 恶意/可疑技能清单,社工安装→外链执行,加密场景伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+insider-wallets-finder-btj6c,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包画像/监控工具,Koi 将其归入 Insider Wallets Finder 恶意/可疑技能清单,社工安装→外链执行,加密场景伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+insider-wallets-finder-cv1d9,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包画像/监控工具,Koi 将其归入 Insider Wallets Finder 恶意/可疑技能清单,社工安装→外链执行,加密场景伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+insider-wallets-finder-djiq0,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包画像/监控工具,Koi 将其归入 Insider Wallets Finder 恶意/可疑技能清单,社工安装→外链执行,加密场景伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+insider-wallets-finder-firui,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包画像/监控工具,Koi 将其归入 Insider Wallets Finder 恶意/可疑技能清单,社工安装→外链执行,加密场景伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+insider-wallets-finder-h5syo,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包画像/监控工具,Koi 将其归入 Insider Wallets Finder 恶意/可疑技能清单,社工安装→外链执行,加密场景伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+insider-wallets-finder-hbmjm,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包画像/监控工具,Koi 将其归入 Insider Wallets Finder 恶意/可疑技能清单,社工安装→外链执行,加密场景伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+insider-wallets-finder-im29o,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包画像/监控工具,Koi 将其归入 Insider Wallets Finder 恶意/可疑技能清单,社工安装→外链执行,加密场景伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+insider-wallets-finder-jacit,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包画像/监控工具,Koi 将其归入 Insider Wallets Finder 恶意/可疑技能清单,社工安装→外链执行,加密场景伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+insider-wallets-finder-kq9nv,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包画像/监控工具,Koi 将其归入 Insider Wallets Finder 恶意/可疑技能清单,社工安装→外链执行,加密场景伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+insider-wallets-finder-mk3w3,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包画像/监控工具,Koi 将其归入 Insider Wallets Finder 恶意/可疑技能清单,社工安装→外链执行,加密场景伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+insider-wallets-finder-ngv64,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包画像/监控工具,Koi 将其归入 Insider Wallets Finder 恶意/可疑技能清单,社工安装→外链执行,加密场景伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+insider-wallets-finder-nq6a9,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包画像/监控工具,Koi 将其归入 Insider Wallets Finder 恶意/可疑技能清单,社工安装→外链执行,加密场景伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+insider-wallets-finder-q9qng,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包画像/监控工具,Koi 将其归入 Insider Wallets Finder 恶意/可疑技能清单,社工安装→外链执行,加密场景伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+insider-wallets-finder-qjkug,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包画像/监控工具,Koi 将其归入 Insider Wallets Finder 恶意/可疑技能清单,社工安装→外链执行,加密场景伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+insider-wallets-finder-r6wya,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包画像/监控工具,Koi 将其归入 Insider Wallets Finder 恶意/可疑技能清单,社工安装→外链执行,加密场景伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+insider-wallets-finder-tivyf,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包画像/监控工具,Koi 将其归入 Insider Wallets Finder 恶意/可疑技能清单,社工安装→外链执行,加密场景伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+insider-wallets-finder-zah8d,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包画像/监控工具,Koi 将其归入 Insider Wallets Finder 恶意/可疑技能清单,社工安装→外链执行,加密场景伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+insider-wallets-finder-zzs2p,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包画像/监控工具,Koi 将其归入 Insider Wallets Finder 恶意/可疑技能清单,社工安装→外链执行,加密场景伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+lost-bitcoin-10li1,Koi ClawHavoc report,未确认,2026-02-01,伪装找回比特币/链上分析,Koi 将其归入 Lost Bitcoin 恶意/可疑技能清单,社工安装→外链执行,加密场景伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+lost-bitcoin-dbrgt,Koi ClawHavoc report,未确认,2026-02-01,伪装找回比特币/链上分析,Koi 将其归入 Lost Bitcoin 恶意/可疑技能清单,社工安装→外链执行,加密场景伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+lost-bitcoin-eabml,Koi ClawHavoc report,未确认,2026-02-01,伪装找回比特币/链上分析,Koi 将其归入 Lost Bitcoin 恶意/可疑技能清单,社工安装→外链执行,加密场景伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+moltbook-lm8,Snyk IOC list,moonshine-100rze,2026-02-05,可疑 Moltbook 相关技能,Snyk 列为仍在线 IOC,技能安装/执行后可疑行为,提示注入/可疑载荷,agent 行为面/主机,4,中,立即下架/阻断IOC/轮换凭据
+moltbookagent,Snyk IOC list,pepe276,2026-02-05,可疑 Moltbook 相关技能,Snyk 注记 Unicode contraband injection / DAN jailbreaks,安装→提示注入/行为劫持,prompt injection/jailbreak,agent 行为面,4,中,立即下架/阻断IOC/轮换凭据
+phantom-0jcvy,Koi ClawHavoc report,未确认,2026-02-01,伪装 Phantom 钱包相关工具,Koi 将其归入 Phantom Wallet 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+phantom-0snsv,Koi ClawHavoc report,未确认,2026-02-01,伪装 Phantom 钱包相关工具,Koi 将其归入 Phantom Wallet 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+phantom-3uttg,Koi ClawHavoc report,未确认,2026-02-01,伪装 Phantom 钱包相关工具,Koi 将其归入 Phantom Wallet 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+phantom-64juz,Koi ClawHavoc report,未确认,2026-02-01,伪装 Phantom 钱包相关工具,Koi 将其归入 Phantom Wallet 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+phantom-afnuz,Koi ClawHavoc report,未确认,2026-02-01,伪装 Phantom 钱包相关工具,Koi 将其归入 Phantom Wallet 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+phantom-ahdwb,Koi ClawHavoc report,未确认,2026-02-01,伪装 Phantom 钱包相关工具,Koi 将其归入 Phantom Wallet 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+phantom-bdacv,Koi ClawHavoc report,未确认,2026-02-01,伪装 Phantom 钱包相关工具,Koi 将其归入 Phantom Wallet 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+phantom-fdjtg,Koi ClawHavoc report,未确认,2026-02-01,伪装 Phantom 钱包相关工具,Koi 将其归入 Phantom Wallet 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+phantom-fsvib,Koi ClawHavoc report,未确认,2026-02-01,伪装 Phantom 钱包相关工具,Koi 将其归入 Phantom Wallet 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+phantom-ftbrg,Koi ClawHavoc report,未确认,2026-02-01,伪装 Phantom 钱包相关工具,Koi 将其归入 Phantom Wallet 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+phantom-fvizs,Koi ClawHavoc report,未确认,2026-02-01,伪装 Phantom 钱包相关工具,Koi 将其归入 Phantom Wallet 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+phantom-ggjrq,Koi ClawHavoc report,未确认,2026-02-01,伪装 Phantom 钱包相关工具,Koi 将其归入 Phantom Wallet 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+phantom-hpwmb,Koi ClawHavoc report,未确认,2026-02-01,伪装 Phantom 钱包相关工具,Koi 将其归入 Phantom Wallet 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+phantom-iebcc,Koi ClawHavoc report,未确认,2026-02-01,伪装 Phantom 钱包相关工具,Koi 将其归入 Phantom Wallet 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+phantom-jwik3,Koi ClawHavoc report,未确认,2026-02-01,伪装 Phantom 钱包相关工具,Koi 将其归入 Phantom Wallet 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+phantom-kxcuj,Koi ClawHavoc report,未确认,2026-02-01,伪装 Phantom 钱包相关工具,Koi 将其归入 Phantom Wallet 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+phantom-lpnfp,Koi ClawHavoc report,未确认,2026-02-01,伪装 Phantom 钱包相关工具,Koi 将其归入 Phantom Wallet 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+phantom-lxnyf,Koi ClawHavoc report,未确认,2026-02-01,伪装 Phantom 钱包相关工具,Koi 将其归入 Phantom Wallet 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+phantom-mdr3q,Koi ClawHavoc report,未确认,2026-02-01,伪装 Phantom 钱包相关工具,Koi 将其归入 Phantom Wallet 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+phantom-nrqdw,Koi ClawHavoc report,未确认,2026-02-01,伪装 Phantom 钱包相关工具,Koi 将其归入 Phantom Wallet 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+phantom-pcue3,Koi ClawHavoc report,未确认,2026-02-01,伪装 Phantom 钱包相关工具,Koi 将其归入 Phantom Wallet 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+phantom-pvber,Koi ClawHavoc report,未确认,2026-02-01,伪装 Phantom 钱包相关工具,Koi 将其归入 Phantom Wallet 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+phantom-q8ark,Koi ClawHavoc report,未确认,2026-02-01,伪装 Phantom 钱包相关工具,Koi 将其归入 Phantom Wallet 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+phantom-qs450,Koi ClawHavoc report,未确认,2026-02-01,伪装 Phantom 钱包相关工具,Koi 将其归入 Phantom Wallet 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+phantom-syjqj,Koi ClawHavoc report,未确认,2026-02-01,伪装 Phantom 钱包相关工具,Koi 将其归入 Phantom Wallet 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+phantom-vpnfy,Koi ClawHavoc report,未确认,2026-02-01,伪装 Phantom 钱包相关工具,Koi 将其归入 Phantom Wallet 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+phantom-vwlfb,Koi ClawHavoc report,未确认,2026-02-01,伪装 Phantom 钱包相关工具,Koi 将其归入 Phantom Wallet 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+phantom-xivjh,Koi ClawHavoc report,未确认,2026-02-01,伪装 Phantom 钱包相关工具,Koi 将其归入 Phantom Wallet 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+phantom-ygmjc,Koi ClawHavoc report,未确认,2026-02-01,伪装 Phantom 钱包相关工具,Koi 将其归入 Phantom Wallet 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+poly,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polym,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polymarket-25nwy,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polymarket-33efn,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polymarket-4rrsh,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polymarket-5dylt,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polymarket-6ehca,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polymarket-7ceau,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polymarket-all-in-one,Koi ClawHavoc report,未确认,2026-02-01,功能正常但藏后门,Koi 将其归入 Hidden Backdoor 恶意/可疑技能清单,正常功能调用→触发隐藏后门,隐藏后门/反连,主机完全控制,5,高,立即下架/阻断IOC/轮换凭据
+polymarket-bpnyq,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polymarket-cexex,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polymarket-dfknh,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polymarket-esfbk,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polymarket-fpwui,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polymarket-gxyrz,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polymarket-hoedg,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polymarket-ik168,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polymarket-jezc4,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polymarket-juui0,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polymarket-lzgm8,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polymarket-mjjsc,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polymarket-phqtc,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polymarket-qjypn,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polymarket-qpi7w,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polymarket-qxjyy,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polymarket-s7x4d,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polymarket-traiding-bot,Koi ClawHavoc report,未确认,2026-02-01,伪装交易/认证工具,Koi 将其归入 AuthTool Campaign 恶意/可疑技能清单,技能使用→植入恶意流程,凭据窃取/交易场景,交易账户/钱包/主机,5,高,立即下架/阻断IOC/轮换凭据
+polymarket-vj5zb,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polymarket-vx875,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polymarket-wapbk,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polymarket-y0c8k,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polymarket-z7lwp,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polymarkets,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+polytrading,Koi ClawHavoc report,未确认,2026-02-01,伪装 Polymarket 交易/分析工具,Koi 将其归入 Polymarket 恶意/可疑技能清单,社工安装→外链执行,交易工具伪装,交易账户/主机,4,高,立即下架/阻断IOC/轮换凭据
+publish-dist,Snyk IOC list,pepe276,2026-02-05,可疑发布工具,Snyk 注记 Similar to above,安装→提示注入/行为劫持,prompt injection/jailbreak,agent 行为面,4,中,立即下架/阻断IOC/轮换凭据
+rankaj,Koi ClawHavoc report,未确认,2026-02-01,凭据窃取/数据外传,Koi 将其归入 Credential Exfiltration 恶意/可疑技能清单,执行后读取并外传敏感信息,数据外传,凭据/文档/主机,5,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-0bbn7,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-1nqgh,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-2ae1q,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-3bkif,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-3itwx,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-4dc9g,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-4utfp,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-52k37,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-5jlwm,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-6a9zc,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-6rn7o,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-7mi7t,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-8gc1n,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-8lxw9,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-8m7no,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-acx63,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-ej5ot,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-fqpsi,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-fshmi,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-gw9xj,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-hqrui,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-jc8up,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-jz1xh,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-k8nnu,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-kclqk,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-llrxm,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-p4qef,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-qgrkz,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-ro6ez,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-ssnw9,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-tb5vg,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+solana-wallet-tracker-v4hsw,Koi ClawHavoc report,未确认,2026-02-01,伪装 Solana 钱包跟踪器,Koi 将其归入 Solana Wallets 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+update,Koi ClawHavoc report,未确认,2026-02-01,伪装更新器/安装器,Koi 将其归入 Auto-Updaters 恶意/可疑技能清单,Prerequisites→外链安装脚本→payload,伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+updater,Koi ClawHavoc report,未确认,2026-02-01,伪装更新器/安装器,Koi 将其归入 Auto-Updaters 恶意/可疑技能清单,Prerequisites→外链安装脚本→payload,伪装/远程执行,主机+凭据,4,高,立即下架/阻断IOC/轮换凭据
+wallet-tracker-0ghsk,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包追踪器,Koi 将其归入 Wallet Tracker 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+wallet-tracker-0waih,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包追踪器,Koi 将其归入 Wallet Tracker 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+wallet-tracker-8orkd,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包追踪器,Koi 将其归入 Wallet Tracker 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+wallet-tracker-af1i6,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包追踪器,Koi 将其归入 Wallet Tracker 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+wallet-tracker-al7er,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包追踪器,Koi 将其归入 Wallet Tracker 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+wallet-tracker-auqlh,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包追踪器,Koi 将其归入 Wallet Tracker 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+wallet-tracker-bf3bs,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包追踪器,Koi 将其归入 Wallet Tracker 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+wallet-tracker-bqahy,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包追踪器,Koi 将其归入 Wallet Tracker 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+wallet-tracker-bs5ur,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包追踪器,Koi 将其归入 Wallet Tracker 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+wallet-tracker-bxb0a,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包追踪器,Koi 将其归入 Wallet Tracker 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+wallet-tracker-fntdr,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包追踪器,Koi 将其归入 Wallet Tracker 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+wallet-tracker-gel8n,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包追踪器,Koi 将其归入 Wallet Tracker 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+wallet-tracker-hhjpv,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包追踪器,Koi 将其归入 Wallet Tracker 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+wallet-tracker-ijyto,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包追踪器,Koi 将其归入 Wallet Tracker 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+wallet-tracker-l7dst,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包追踪器,Koi 将其归入 Wallet Tracker 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+wallet-tracker-mgwpt,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包追踪器,Koi 将其归入 Wallet Tracker 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+wallet-tracker-oozrx,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包追踪器,Koi 将其归入 Wallet Tracker 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+wallet-tracker-pbckx,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包追踪器,Koi 将其归入 Wallet Tracker 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+wallet-tracker-qoa9k,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包追踪器,Koi 将其归入 Wallet Tracker 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+wallet-tracker-rcoux,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包追踪器,Koi 将其归入 Wallet Tracker 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+wallet-tracker-s5hx9,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包追踪器,Koi 将其归入 Wallet Tracker 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+wallet-tracker-udqiq,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包追踪器,Koi 将其归入 Wallet Tracker 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+wallet-tracker-ue8hv,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包追踪器,Koi 将其归入 Wallet Tracker 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+wallet-tracker-x76ik,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包追踪器,Koi 将其归入 Wallet Tracker 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+wallet-tracker-zih4w,Koi ClawHavoc report,未确认,2026-02-01,伪装钱包追踪器,Koi 将其归入 Wallet Tracker 恶意/可疑技能清单,社工安装→外链执行,钱包伪装,钱包/主机,4,高,立即下架/阻断IOC/轮换凭据
+whatsapp-mgv,Snyk threat actor repo,aztr0nutzs,2026-02-05,现成恶意 skill 样本目录,Snyk 点名 NET_NiNjA.v1.2 预置恶意技能目录,仓库样本→待投放,恶意样本仓库,待定,3,中,立即下架/阻断IOC/轮换凭据
+x-trends-0heof,Koi ClawHavoc report,未确认,2026-02-01,伪装社交媒体趋势分析工具,Koi 将其归入 X/Twitter Trends 恶意/可疑技能清单,社工安装→外链执行,社交工具伪装,浏览器/会话/主机,4,高,立即下架/阻断IOC/轮换凭据
+x-trends-9y6gc,Koi ClawHavoc report,未确认,2026-02-01,伪装社交媒体趋势分析工具,Koi 将其归入 X/Twitter Trends 恶意/可疑技能清单,社工安装→外链执行,社交工具伪装,浏览器/会话/主机,4,高,立即下架/阻断IOC/轮换凭据
+x-trends-axy84,Koi ClawHavoc report,未确认,2026-02-01,伪装社交媒体趋势分析工具,Koi 将其归入 X/Twitter Trends 恶意/可疑技能清单,社工安装→外链执行,社交工具伪装,浏览器/会话/主机,4,高,立即下架/阻断IOC/轮换凭据
+x-trends-bjcps,Koi ClawHavoc report,未确认,2026-02-01,伪装社交媒体趋势分析工具,Koi 将其归入 X/Twitter Trends 恶意/可疑技能清单,社工安装→外链执行,社交工具伪装,浏览器/会话/主机,4,高,立即下架/阻断IOC/轮换凭据
+x-trends-cpif3,Koi ClawHavoc report,未确认,2026-02-01,伪装社交媒体趋势分析工具,Koi 将其归入 X/Twitter Trends 恶意/可疑技能清单,社工安装→外链执行,社交工具伪装,浏览器/会话/主机,4,高,立即下架/阻断IOC/轮换凭据
+x-trends-dijrb,Koi ClawHavoc report,未确认,2026-02-01,伪装社交媒体趋势分析工具,Koi 将其归入 X/Twitter Trends 恶意/可疑技能清单,社工安装→外链执行,社交工具伪装,浏览器/会话/主机,4,高,立即下架/阻断IOC/轮换凭据
+x-trends-el5qn,Koi ClawHavoc report,未确认,2026-02-01,伪装社交媒体趋势分析工具,Koi 将其归入 X/Twitter Trends 恶意/可疑技能清单,社工安装→外链执行,社交工具伪装,浏览器/会话/主机,4,高,立即下架/阻断IOC/轮换凭据
+x-trends-hloqe,Koi ClawHavoc report,未确认,2026-02-01,伪装社交媒体趋势分析工具,Koi 将其归入 X/Twitter Trends 恶意/可疑技能清单,社工安装→外链执行,社交工具伪装,浏览器/会话/主机,4,高,立即下架/阻断IOC/轮换凭据
+x-trends-kujtp,Koi ClawHavoc report,未确认,2026-02-01,伪装社交媒体趋势分析工具,Koi 将其归入 X/Twitter Trends 恶意/可疑技能清单,社工安装→外链执行,社交工具伪装,浏览器/会话/主机,4,高,立即下架/阻断IOC/轮换凭据
+x-trends-ky4xt,Koi ClawHavoc report,未确认,2026-02-01,伪装社交媒体趋势分析工具,Koi 将其归入 X/Twitter Trends 恶意/可疑技能清单,社工安装→外链执行,社交工具伪装,浏览器/会话/主机,4,高,立即下架/阻断IOC/轮换凭据
+x-trends-kzcxt,Koi ClawHavoc report,未确认,2026-02-01,伪装社交媒体趋势分析工具,Koi 将其归入 X/Twitter Trends 恶意/可疑技能清单,社工安装→外链执行,社交工具伪装,浏览器/会话/主机,4,高,立即下架/阻断IOC/轮换凭据
+x-trends-mtzmi,Koi ClawHavoc report,未确认,2026-02-01,伪装社交媒体趋势分析工具,Koi 将其归入 X/Twitter Trends 恶意/可疑技能清单,社工安装→外链执行,社交工具伪装,浏览器/会话/主机,4,高,立即下架/阻断IOC/轮换凭据
+x-trends-ngw4s,Koi ClawHavoc report,未确认,2026-02-01,伪装社交媒体趋势分析工具,Koi 将其归入 X/Twitter Trends 恶意/可疑技能清单,社工安装→外链执行,社交工具伪装,浏览器/会话/主机,4,高,立即下架/阻断IOC/轮换凭据
+x-trends-nvdfx,Koi ClawHavoc report,未确认,2026-02-01,伪装社交媒体趋势分析工具,Koi 将其归入 X/Twitter Trends 恶意/可疑技能清单,社工安装→外链执行,社交工具伪装,浏览器/会话/主机,4,高,立即下架/阻断IOC/轮换凭据
+x-trends-orwhp,Koi ClawHavoc report,未确认,2026-02-01,伪装社交媒体趋势分析工具,Koi 将其归入 X/Twitter Trends 恶意/可疑技能清单,社工安装→外链执行,社交工具伪装,浏览器/会话/主机,4,高,立即下架/阻断IOC/轮换凭据
+x-trends-ovdpf,Koi ClawHavoc report,未确认,2026-02-01,伪装社交媒体趋势分析工具,Koi 将其归入 X/Twitter Trends 恶意/可疑技能清单,社工安装→外链执行,社交工具伪装,浏览器/会话/主机,4,高,立即下架/阻断IOC/轮换凭据
+x-trends-p7ivk,Koi ClawHavoc report,未确认,2026-02-01,伪装社交媒体趋势分析工具,Koi 将其归入 X/Twitter Trends 恶意/可疑技能清单,社工安装→外链执行,社交工具伪装,浏览器/会话/主机,4,高,立即下架/阻断IOC/轮换凭据
+x-trends-qfpkj,Koi ClawHavoc report,未确认,2026-02-01,伪装社交媒体趋势分析工具,Koi 将其归入 X/Twitter Trends 恶意/可疑技能清单,社工安装→外链执行,社交工具伪装,浏览器/会话/主机,4,高,立即下架/阻断IOC/轮换凭据
+x-trends-qhz9c,Koi ClawHavoc report,未确认,2026-02-01,伪装社交媒体趋势分析工具,Koi 将其归入 X/Twitter Trends 恶意/可疑技能清单,社工安装→外链执行,社交工具伪装,浏览器/会话/主机,4,高,立即下架/阻断IOC/轮换凭据
+x-trends-qpaoo,Koi ClawHavoc report,未确认,2026-02-01,伪装社交媒体趋势分析工具,Koi 将其归入 X/Twitter Trends 恶意/可疑技能清单,社工安装→外链执行,社交工具伪装,浏览器/会话/主机,4,高,立即下架/阻断IOC/轮换凭据
+x-trends-qylxo,Koi ClawHavoc report,未确认,2026-02-01,伪装社交媒体趋势分析工具,Koi 将其归入 X/Twitter Trends 恶意/可疑技能清单,社工安装→外链执行,社交工具伪装,浏览器/会话/主机,4,高,立即下架/阻断IOC/轮换凭据
+x-trends-rjmtk,Koi ClawHavoc report,未确认,2026-02-01,伪装社交媒体趋势分析工具,Koi 将其归入 X/Twitter Trends 恶意/可疑技能清单,社工安装→外链执行,社交工具伪装,浏览器/会话/主机,4,高,立即下架/阻断IOC/轮换凭据
+x-trends-rwskq,Koi ClawHavoc report,未确认,2026-02-01,伪装社交媒体趋势分析工具,Koi 将其归入 X/Twitter Trends 恶意/可疑技能清单,社工安装→外链执行,社交工具伪装,浏览器/会话/主机,4,高,立即下架/阻断IOC/轮换凭据
+x-trends-wbc5p,Koi ClawHavoc report,未确认,2026-02-01,伪装社交媒体趋势分析工具,Koi 将其归入 X/Twitter Trends 恶意/可疑技能清单,社工安装→外链执行,社交工具伪装,浏览器/会话/主机,4,高,立即下架/阻断IOC/轮换凭据
+x-trends-ypqjp,Koi ClawHavoc report,未确认,2026-02-01,伪装社交媒体趋势分析工具,Koi 将其归入 X/Twitter Trends 恶意/可疑技能清单,社工安装→外链执行,社交工具伪装,浏览器/会话/主机,4,高,立即下架/阻断IOC/轮换凭据
+yahoo-finance-1h2ji,Koi ClawHavoc report,未确认,2026-02-01,伪装金融行情/分析工具,Koi 将其归入 Yahoo Finance 恶意/可疑技能清单,社工安装→外链执行,金融工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+yahoo-finance-2s8cv,Koi ClawHavoc report,未确认,2026-02-01,伪装金融行情/分析工具,Koi 将其归入 Yahoo Finance 恶意/可疑技能清单,社工安装→外链执行,金融工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+yahoo-finance-55ykj,Koi ClawHavoc report,未确认,2026-02-01,伪装金融行情/分析工具,Koi 将其归入 Yahoo Finance 恶意/可疑技能清单,社工安装→外链执行,金融工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+yahoo-finance-5fhu3,Koi ClawHavoc report,未确认,2026-02-01,伪装金融行情/分析工具,Koi 将其归入 Yahoo Finance 恶意/可疑技能清单,社工安装→外链执行,金融工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+yahoo-finance-6icpt,Koi ClawHavoc report,未确认,2026-02-01,伪装金融行情/分析工具,Koi 将其归入 Yahoo Finance 恶意/可疑技能清单,社工安装→外链执行,金融工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+yahoo-finance-7txap,Koi ClawHavoc report,未确认,2026-02-01,伪装金融行情/分析工具,Koi 将其归入 Yahoo Finance 恶意/可疑技能清单,社工安装→外链执行,金融工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+yahoo-finance-bzrvt,Koi ClawHavoc report,未确认,2026-02-01,伪装金融行情/分析工具,Koi 将其归入 Yahoo Finance 恶意/可疑技能清单,社工安装→外链执行,金融工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+yahoo-finance-cv8ev,Koi ClawHavoc report,未确认,2026-02-01,伪装金融行情/分析工具,Koi 将其归入 Yahoo Finance 恶意/可疑技能清单,社工安装→外链执行,金融工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+yahoo-finance-eqosk,Koi ClawHavoc report,未确认,2026-02-01,伪装金融行情/分析工具,Koi 将其归入 Yahoo Finance 恶意/可疑技能清单,社工安装→外链执行,金融工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+yahoo-finance-ijybk,Koi ClawHavoc report,未确认,2026-02-01,伪装金融行情/分析工具,Koi 将其归入 Yahoo Finance 恶意/可疑技能清单,社工安装→外链执行,金融工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+yahoo-finance-jdlqs,Koi ClawHavoc report,未确认,2026-02-01,伪装金融行情/分析工具,Koi 将其归入 Yahoo Finance 恶意/可疑技能清单,社工安装→外链执行,金融工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+yahoo-finance-jzgua,Koi ClawHavoc report,未确认,2026-02-01,伪装金融行情/分析工具,Koi 将其归入 Yahoo Finance 恶意/可疑技能清单,社工安装→外链执行,金融工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+yahoo-finance-kmhxs,Koi ClawHavoc report,未确认,2026-02-01,伪装金融行情/分析工具,Koi 将其归入 Yahoo Finance 恶意/可疑技能清单,社工安装→外链执行,金融工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+yahoo-finance-m16op,Koi ClawHavoc report,未确认,2026-02-01,伪装金融行情/分析工具,Koi 将其归入 Yahoo Finance 恶意/可疑技能清单,社工安装→外链执行,金融工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+yahoo-finance-mb9wu,Koi ClawHavoc report,未确认,2026-02-01,伪装金融行情/分析工具,Koi 将其归入 Yahoo Finance 恶意/可疑技能清单,社工安装→外链执行,金融工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+yahoo-finance-mz1nt,Koi ClawHavoc report,未确认,2026-02-01,伪装金融行情/分析工具,Koi 将其归入 Yahoo Finance 恶意/可疑技能清单,社工安装→外链执行,金融工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+yahoo-finance-om4g4,Koi ClawHavoc report,未确认,2026-02-01,伪装金融行情/分析工具,Koi 将其归入 Yahoo Finance 恶意/可疑技能清单,社工安装→外链执行,金融工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+yahoo-finance-saosh,Koi ClawHavoc report,未确认,2026-02-01,伪装金融行情/分析工具,Koi 将其归入 Yahoo Finance 恶意/可疑技能清单,社工安装→外链执行,金融工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+yahoo-finance-tqxkb,Koi ClawHavoc report,未确认,2026-02-01,伪装金融行情/分析工具,Koi 将其归入 Yahoo Finance 恶意/可疑技能清单,社工安装→外链执行,金融工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+yahoo-finance-uelhr,Koi ClawHavoc report,未确认,2026-02-01,伪装金融行情/分析工具,Koi 将其归入 Yahoo Finance 恶意/可疑技能清单,社工安装→外链执行,金融工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+yahoo-finance-w3wo2,Koi ClawHavoc report,未确认,2026-02-01,伪装金融行情/分析工具,Koi 将其归入 Yahoo Finance 恶意/可疑技能清单,社工安装→外链执行,金融工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+yahoo-finance-wcr6j,Koi ClawHavoc report,未确认,2026-02-01,伪装金融行情/分析工具,Koi 将其归入 Yahoo Finance 恶意/可疑技能清单,社工安装→外链执行,金融工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+yahoo-finance-y7mbx,Koi ClawHavoc report,未确认,2026-02-01,伪装金融行情/分析工具,Koi 将其归入 Yahoo Finance 恶意/可疑技能清单,社工安装→外链执行,金融工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+yahoo-finance-ztbyq,Koi ClawHavoc report,未确认,2026-02-01,伪装金融行情/分析工具,Koi 将其归入 Yahoo Finance 恶意/可疑技能清单,社工安装→外链执行,金融工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-summarize-11y0i,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 摘要工具,Koi 将其归入 YouTube Summarize 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-summarize-35o20,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 摘要工具,Koi 将其归入 YouTube Summarize 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-summarize-3luwa,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 摘要工具,Koi 将其归入 YouTube Summarize 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-summarize-5oixh,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 摘要工具,Koi 将其归入 YouTube Summarize 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-summarize-7vnwu,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 摘要工具,Koi 将其归入 YouTube Summarize 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-summarize-8edua,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 摘要工具,Koi 将其归入 YouTube Summarize 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-summarize-beqh9,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 摘要工具,Koi 将其归入 YouTube Summarize 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-summarize-ebw5x,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 摘要工具,Koi 将其归入 YouTube Summarize 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-summarize-gctcr,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 摘要工具,Koi 将其归入 YouTube Summarize 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-summarize-genms,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 摘要工具,Koi 将其归入 YouTube Summarize 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-summarize-hr5oh,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 摘要工具,Koi 将其归入 YouTube Summarize 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-summarize-iagv2,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 摘要工具,Koi 将其归入 YouTube Summarize 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-summarize-ib7el,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 摘要工具,Koi 将其归入 YouTube Summarize 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-summarize-ietsw,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 摘要工具,Koi 将其归入 YouTube Summarize 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-summarize-k67rk,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 摘要工具,Koi 将其归入 YouTube Summarize 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-summarize-kodxd,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 摘要工具,Koi 将其归入 YouTube Summarize 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-summarize-l4hjv,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 摘要工具,Koi 将其归入 YouTube Summarize 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-summarize-l8nmj,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 摘要工具,Koi 将其归入 YouTube Summarize 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-summarize-lh9rq,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 摘要工具,Koi 将其归入 YouTube Summarize 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-summarize-mxmlp,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 摘要工具,Koi 将其归入 YouTube Summarize 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-summarize-noyux,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 摘要工具,Koi 将其归入 YouTube Summarize 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-summarize-ohxkm,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 摘要工具,Koi 将其归入 YouTube Summarize 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-summarize-ppfxa,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 摘要工具,Koi 将其归入 YouTube Summarize 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-summarize-r5ajr,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 摘要工具,Koi 将其归入 YouTube Summarize 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-summarize-tvtrh,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 摘要工具,Koi 将其归入 YouTube Summarize 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-summarize-umait,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 摘要工具,Koi 将其归入 YouTube Summarize 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-summarize-z7kli,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 摘要工具,Koi 将其归入 YouTube Summarize 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-summarize-zserr,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 摘要工具,Koi 将其归入 YouTube Summarize 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-summarize-zwl3z,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 摘要工具,Koi 将其归入 YouTube Summarize 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-thumbnail-grabber-2dp6g,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 封面工具,Koi 将其归入 YouTube Thumbnail Grabber 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-thumbnail-grabber-2vx4b,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 封面工具,Koi 将其归入 YouTube Thumbnail Grabber 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-thumbnail-grabber-bg45o,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 封面工具,Koi 将其归入 YouTube Thumbnail Grabber 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-thumbnail-grabber-h67cl,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 封面工具,Koi 将其归入 YouTube Thumbnail Grabber 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-thumbnail-grabber-jes1t,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 封面工具,Koi 将其归入 YouTube Thumbnail Grabber 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-thumbnail-grabber-jwnwx,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 封面工具,Koi 将其归入 YouTube Thumbnail Grabber 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-thumbnail-grabber-ktwoe,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 封面工具,Koi 将其归入 YouTube Thumbnail Grabber 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-thumbnail-grabber-mgaww,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 封面工具,Koi 将其归入 YouTube Thumbnail Grabber 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-thumbnail-grabber-qvizx,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 封面工具,Koi 将其归入 YouTube Thumbnail Grabber 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-thumbnail-grabber-rzncj,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 封面工具,Koi 将其归入 YouTube Thumbnail Grabber 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-thumbnail-grabber-sq374,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 封面工具,Koi 将其归入 YouTube Thumbnail Grabber 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-thumbnail-grabber-tzilx,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 封面工具,Koi 将其归入 YouTube Thumbnail Grabber 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-thumbnail-grabber-w7har,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 封面工具,Koi 将其归入 YouTube Thumbnail Grabber 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-video-downloader-5qfuw,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 下载工具,Koi 将其归入 YouTube Video Downloader 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-video-downloader-9br7p,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 下载工具,Koi 将其归入 YouTube Video Downloader 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-video-downloader-9kscv,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 下载工具,Koi 将其归入 YouTube Video Downloader 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-video-downloader-cjmxp,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 下载工具,Koi 将其归入 YouTube Video Downloader 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-video-downloader-fnkxw,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 下载工具,Koi 将其归入 YouTube Video Downloader 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-video-downloader-hvzyq,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 下载工具,Koi 将其归入 YouTube Video Downloader 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-video-downloader-jobxc,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 下载工具,Koi 将其归入 YouTube Video Downloader 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-video-downloader-kcbjr,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 下载工具,Koi 将其归入 YouTube Video Downloader 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-video-downloader-pydzq,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 下载工具,Koi 将其归入 YouTube Video Downloader 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-video-downloader-tnot1,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 下载工具,Koi 将其归入 YouTube Video Downloader 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-video-downloader-vsmhd,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 下载工具,Koi 将其归入 YouTube Video Downloader 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-video-downloader-wibsd,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 下载工具,Koi 将其归入 YouTube Video Downloader 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
+youtube-video-downloader-xx9sy,Koi ClawHavoc report,未确认,2026-02-01,伪装 YouTube 下载工具,Koi 将其归入 YouTube Video Downloader 恶意/可疑技能清单,社工安装→外链执行,大众工具伪装,浏览器/主机,4,高,立即下架/阻断IOC/轮换凭据
