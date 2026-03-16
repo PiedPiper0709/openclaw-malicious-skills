@@ -26,7 +26,7 @@ OpenClaw 的一个核心特点，是可以通过安装不同 Skills 来扩展能
 
 当前仓库主要包含一份结构化样本清单：
 
-- `data/openclaw_malicious_skills_catalog_2026-03-16.csv`
+- `data/openclaw-risky-skills.csv`
 
 该 CSV 用于记录公开已知的 OpenClaw 恶意 / 可疑 Skills 样本及其相关属性。
 
